@@ -1,0 +1,9 @@
+// 函数名称: sub_404b60
+// 虚拟地址: 0x404b60
+// 源二进制: E:/torrent/Cursor/Roll for the Galaxy/Roll.exe.bndb
+
+int32_tsub_404b60()
+{
+    // 第一条实际指令: return sub_4d0b50("res/effects/tiles/available_texture.texture", 3) __tailcall
+    return sub_4d0b50("res/effects/tiles/available_texture.texture", 3) __tailcall
+}

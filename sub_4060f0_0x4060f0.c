@@ -1,0 +1,9 @@
+// 函数名称: sub_4060f0
+// 虚拟地址: 0x4060f0
+// 源二进制: E:/torrent/Cursor/Roll for the Galaxy/Roll.exe.bndb
+
+int32_tsub_4060f0()
+{
+    // 第一条实际指令: return sub_4d0b50("res/sound/source/unused/unowned_monster_sm.sound", 0x15) __tailcall
+    return sub_4d0b50("res/sound/source/unused/unowned_monster_sm.sound", 0x15) __tailcall
+}
